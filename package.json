@@ -6,21 +6,13 @@
   "scripts": {
     "start": "node index.js",
     "server": "nodemon index.js",
-    
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Easton-F/node-api4-project.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Easton-F/node-api4-project/issues"
-  },
-  "homepage": "https://github.com/Easton-F/node-api4-project#readme",
   "devDependencies": {
-    "eslint": "^8.49.0",
+    "eslint": "^8.51.0",
     "nodemon": "^3.0.1"
   },
   "dependencies": {
